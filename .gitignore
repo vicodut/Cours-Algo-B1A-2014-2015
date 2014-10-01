@@ -41,3 +41,12 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# User's settings
+
+/*/*/build
+/*/*/obj
+/*/*/*.cbp
+/*/*/*.depend
+/*/*/*.layout
+.gitattributes
