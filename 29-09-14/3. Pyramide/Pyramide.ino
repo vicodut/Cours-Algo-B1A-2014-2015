@@ -24,9 +24,10 @@ void loop()
                 } else
                 {
                     Serial.print(i+1);
+
                 }
             }
-            Serial.println();
+            Serial.println("0");
 
         }
     }
